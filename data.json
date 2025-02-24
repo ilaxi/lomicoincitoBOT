@@ -1,0 +1,56 @@
+{
+    "559487297234665480": {
+        "lomitos": 390,
+        "xp": 46.0,
+        "level": 2,
+        "last_pedir": 1740018547.1438494,
+        "last_sueldo": 1740011477.8539984,
+        "shop": {
+            "lomitero": 9,
+            "lomiteria": 4,
+            "amulet": 0,
+            "hipopotamo": 0,
+            "arabe": 0,
+            "mezquita": 0
+        },
+        "inventory": {},
+        "donado": 51,
+        "recibido": 0
+    },
+    "335098575690137600": {
+        "lomitos": 40,
+        "xp": 8.0,
+        "level": 1,
+        "last_pedir": 1739663868.784558,
+        "last_sueldo": 1739663887.7782662,
+        "shop": {
+            "lomitero": 2,
+            "lomiteria": 0,
+            "amulet": 0,
+            "hipopotamo": 0,
+            "arabe": 0,
+            "mezquita": 0
+        },
+        "inventory": {},
+        "donado": 0,
+        "recibido": 1
+    },
+    "327233729019904001": {
+        "lomitos": 57,
+        "xp": 7.0,
+        "level": 1,
+        "last_pedir": 1740018552.8815665,
+        "last_sueldo": 1740018580.5681863,
+        "shop": {
+            "lomitero": 1,
+            "lomiteria": 0,
+            "amulet": 0,
+            "hipopotamo": 0,
+            "arabe": 0,
+            "mezquita": 0
+        },
+        "inventory": {},
+        "donado": 0,
+        "recibido": 50
+    }
+}
